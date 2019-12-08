@@ -121,7 +121,7 @@ Github项目下载：https://github.com/sqlsec/B360M-DS3H-I5-9600KF-RX580-CLOVER
 
 高低频正常，日常使用温度 30℃以下：
 
-![](https://dn-coding-net-tweet.codehub.cn/photo/2019/8c05d889-17c5-46c6-b067-f9264ca397c1.jpg)     
+![8c05d889-17c5-46c6-b067-f9264ca397c1](images/8c05d889-17c5-46c6-b067-f9264ca397c1.jpg)
 
 使用log记录功能`CPU Requsted  Frequency_0(MHz)`的值从低到高如下：
 
@@ -131,21 +131,19 @@ Github项目下载：https://github.com/sqlsec/B360M-DS3H-I5-9600KF-RX580-CLOVER
 
 ## GPU
 
-后HDMI、DP接口均可正常4K60Hz输出，机型设置使用`iMacPro1,1` H264硬解、HEVC硬解均成功解锁激活：
+HDMI、DP接口均可正常4K60Hz输出，机型设置使用`iMacPro1,1` 后，H264硬解、HEVC硬解均成功解锁激活：
 
-![](https://dn-coding-net-tweet.codehub.cn/photo/2019/3a8f3e23-cf66-4732-be70-4a2799583ffe.jpg)    
+![3a8f3e23-cf66-4732-be70-4a2799583ffe](images/3a8f3e23-cf66-4732-be70-4a2799583ffe.jpg)
 
 比较蛋疼的是国光我尝试了其他的一些机型就不能开启显卡硬解，有点坑，这个可能是F结尾没有核显的CPU造成的。
 
 ## WiFi
 
-目前BCM943602CD实际体验比我之前的BCM943602CS还要稳定：
-
-![](https://dn-coding-net-tweet.codehub.cn/photo/2019/4165246a-9f31-41df-9eb0-b205b3e5a65e.jpg)  
+目前BCM943602CD实际体验比我之前的BCM943602CS还要稳定： ![4165246a-9f31-41df-9eb0-b205b3e5a65e](images/4165246a-9f31-41df-9eb0-b205b3e5a65e.jpg)
 
 参数里面也解锁了多频段、支持无线唤醒和隔空投送：
 
-![](https://dn-coding-net-tweet.codehub.cn/photo/2019/97fc1b42-b059-4042-9a08-a19f743e6d31.jpg)    
+![97fc1b42-b059-4042-9a08-a19f743e6d31](images/97fc1b42-b059-4042-9a08-a19f743e6d31.jpg)
 
 ## 蓝牙
 
@@ -159,19 +157,19 @@ sudo rm /Library/Preferences/com.apple.Bluetooth.plist
 sudo reboot
 ```
 
-![](https://dn-coding-net-tweet.codehub.cn/photo/2019/e5e9fa8c-e54e-4798-b56d-3386a410cd8d.jpg)  
+![e5e9fa8c-e54e-4798-b56d-3386a410cd8d](images/e5e9fa8c-e54e-4798-b56d-3386a410cd8d.jpg)  
 
 ## USB
 
 黑苹果USB定制折腾过后，现在后置4个USB3.0已经前置1个USB3.0接口均已经5Gbps满速，蓝牙已经内建，无效多余USB端口均已经删除：
 
-![](https://dn-coding-net-tweet.codehub.cn/photo/2019/7ac4de1e-45de-495c-aa22-573b572e41d4.jpg)  
+![7ac4de1e-45de-495c-aa22-573b572e41d4](images/7ac4de1e-45de-495c-aa22-573b572e41d4.jpg)  
 
 ## 声卡
 
 使用`AppleALC.kext`原生声卡驱动，Clover里面注入ID值为`5`，麦克风也可以正常使用，可以看到下方输入电平的是有变化的：
 
-![](https://dn-coding-net-tweet.codehub.cn/photo/2019/7a790abb-a422-4e5e-986b-d5bbe6198f6a.jpg)  
+![7a790abb-a422-4e5e-986b-d5bbe6198f6a](images/7a790abb-a422-4e5e-986b-d5bbe6198f6a.jpg)  
 
 ## 睡眠
 
@@ -188,18 +186,14 @@ sudo trimforce enable
 Is this OK(y/N)? y
 ```
 
-启动成功重启，关于本机里面查看SSD的TRIM支持情况：
-
-![](https://dn-coding-net-tweet.codehub.cn/photo/2019/a6b66655-f3f7-478c-9c3b-eaad80205b7c.jpg)  
+启动成功重启，关于本机里面查看SSD的TRIM支持情况：![a6b66655-f3f7-478c-9c3b-eaad80205b7c](images/a6b66655-f3f7-478c-9c3b-eaad80205b7c.jpg)
 
 ## AirDrop
 
 因为免驱无线网卡，蓝牙和WiFi均成功驱动，所以隔空投送自然也是可以正常使用的：
 
-![](https://dn-coding-net-tweet.codehub.cn/photo/2019/a55eeeb0-8a8c-468f-93f1-384954589ab4.jpg)    
+![a55eeeb0-8a8c-468f-93f1-384954589ab4](images/a55eeeb0-8a8c-468f-93f1-384954589ab4.jpg)    
 
 ##  传感器
 
-CPU、GPU、硬盘、风扇转速、电压、功耗均可以正常监测到：
-
-![](https://dn-coding-net-tweet.codehub.cn/photo/2019/109140e5-9aad-495b-9c4b-29264caa1e11.jpg)  
+CPU、GPU、硬盘、风扇转速、电压、功耗均可以正常监测到： ![109140e5-9aad-495b-9c4b-29264caa1e11](images/109140e5-9aad-495b-9c4b-29264caa1e11.jpg)
