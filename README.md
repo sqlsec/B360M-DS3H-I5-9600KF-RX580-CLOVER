@@ -19,7 +19,7 @@ Github项目下载：https://github.com/sqlsec/B360M-DS3H-I5-9600KF-RX580-CLOVER
 | ----- | -------------------------------------- | ------------------------------------------------------------ | -------- |
 | CPU   | i5 9600KF                              | [淘宝](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.3d7b2e8dbUBo6Z&id=604090130728&_u=82ehsl2icfd1) | ￥1170   |
 | 内存  | 阿斯加特 洛极红甲 T2 16GB * 2  2666MHz | [京东](https://item.jd.com/61101875649.html)                 | ￥533    |
-| 硬盘1 | 海康威视C16 NVME 1TB                   | [淘宝](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.92b72e8d3PQbE7&id=591768278482&_u=82ehsl2i29bd) | ￥739    |
+| 硬盘1 | 海康威视C2000 NVME 1TB                 | [淘宝](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.92b72e8d3PQbE7&id=591768278482&_u=82ehsl2i29bd) | ￥739    |
 | 硬盘2 | 海康威视C16 SATA 512GB                 | [淘宝](https://detail.tmall.com/item.htm?id=608852330391&spm=a1z09.2.0.0.92b72e8d3PQbE7&_u=82ehsl2i3abb&skuId=4447910455639) | ￥349    |
 | 硬盘3 | 希捷 ST2000DM006 7200转 2TB PMR        | [淘宝](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.79182e8dBTCPKp&id=562918490191&_u=82ehsl2i864c) | ￥258    |
 | 主板  | 技嘉B360M DS3H                         | 咸鱼                                                         | ￥325    |
@@ -52,6 +52,8 @@ Github项目下载：https://github.com/sqlsec/B360M-DS3H-I5-9600KF-RX580-CLOVER
 # 驱动情况
 
 具体也可以参考Bilibili的效果演示视频：
+
+[垃圾佬99.9999%完美的黑苹果主机驱动分享](https://www.bilibili.com/video/av78687998)  
 
 ## BIOS
 
