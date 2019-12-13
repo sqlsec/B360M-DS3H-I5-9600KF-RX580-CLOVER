@@ -1,7 +1,7 @@
 # B360M-DS3H-I5-9600KF-RX580-CLOVER
 技嘉B360M DS3H i5-9600KF RX580  macOS Mojave 10.14.6 Hackintosh 黑苹果驱动Clover分享
 
-黑苹果Clover驱动分享项目基本上没有时间维护了，现在精力用来研究自己的信息安全技术了，黑苹果基本上不碰了，但是最近攒机不得不又来折腾下黑苹果，既然折腾了那就顺便来水一篇文章吧。驱动下载
+黑苹果Clover驱动分享项目基本上没有时间维护了，现在精力用来研究自己的信息安全技术了，黑苹果基本上不碰了，但是最近攒机不得不又来折腾下黑苹果，既然折腾了那就顺便来水一篇文章吧。
 
 ## 驱动下载
 
@@ -9,7 +9,7 @@ Github项目下载：https://github.com/sqlsec/B360M-DS3H-I5-9600KF-RX580-CLOVER
 
 文章地址：https://www.sqlsec.com/2019/12/pc.html
 
-如果Github访问比较卡的话，也可以访问[OneDriver](https://uijay-my.sharepoint.com/:u:/g/personal/aywtc_myoffice_fun/EWgx14JaUktEikTU5jCG5PQBnIfs-WnHRo7Fy7m3Eu6kBQ?e=eCjNyw)  、[蓝奏云](https://www.lanzous.com/i7wpo4h) 
+如果Github访问比较卡的话，也可以访问 [OneDriver](https://uijay-my.sharepoint.com/:u:/g/personal/aywtc_myoffice_fun/EXkO274LWCxMidc8KGoJC30BUIP-ZNQCTRCeznVcDlXGuw?e=ZspBFG) 、[蓝奏云](https://www.lanzous.com/i7zstla)  
 
 # 主机参数
 
@@ -114,7 +114,7 @@ Github项目下载：https://github.com/sqlsec/B360M-DS3H-I5-9600KF-RX580-CLOVER
 | [FakeSMC_LPCSensors.kext](https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/downloads/) | 6.26-357-gceb835ea.1800 | 温度传感器系列               |
 | [FakeSMC_SMMSensors.kext](https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/downloads/) | 6.26-357-gceb835ea.1800 | 温度传感器系列               |
 | [FakeSMC.kext](https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/downloads/) | 6.26-357-gceb835ea.1800 | 欺骗OS X系统                 |
-| [IntelMausiEthernet.kext]()                                  | 2.5.0d0                 | 板载网卡驱动                 |
+| RealtekRTL8111.kext                                          | 2.3.0d7                 | Realtek 8118电竞网卡驱动     |
 | [Lilu.kext](https://github.com/acidanthera/Lilu/releases)    | 1.4.0                   | 黑苹果驱动扩展补丁           |
 | USBPorts.kext                                                | 1.0                     | 国光自己定制的USB驱动        |
 | [WhateverGreen.kext](https://github.com/acidanthera/whatevergreen/releases) | 1.3.5                   | 显卡黑屏、花屏、睡眠黑屏补丁 |
