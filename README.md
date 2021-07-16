@@ -99,11 +99,10 @@ macOS Big Sur 11.4 + OpenCore 0.7.1
 
 <table>
     <tr>
-        <td>微信
+        <td>
             <center><img src="images/1587449920128.jpg" width="70%"></center>
         </td>
         <td width="50%">
-          支付宝
             <center><img src="images/15874503376388.jpg" width="70%"></center>
         </td>
     </tr>
