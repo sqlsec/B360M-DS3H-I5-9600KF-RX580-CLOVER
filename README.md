@@ -97,8 +97,6 @@ macOS Big Sur 11.4 + OpenCore 0.7.1
 
 # 打赏 Reward
 
-![img](images/15874503376388.jpg)
-
 <table>
     <tr>
         <td>微信
