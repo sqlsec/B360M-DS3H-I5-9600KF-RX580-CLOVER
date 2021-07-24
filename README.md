@@ -2,7 +2,7 @@
 
 ## 配置
 
-macOS Big Sur 11.4 + OpenCore 0.7.1
+macOS Big Sur 11.5 + OpenCore 0.7.1
 
 | 组件 | 名称                   |
 | ---- | ---------------------- |
@@ -29,7 +29,7 @@ macOS Big Sur 11.4 + OpenCore 0.7.1
 
 # English version
 
-macOS Big Sur 11.4 + OpenCore 0.7.1
+macOS Big Sur 11.5 + OpenCore 0.7.1
 
 | 组件       | 名称                     |
 | ---------- | ------------------------ |
