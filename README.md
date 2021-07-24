@@ -71,17 +71,17 @@ macOS Big Sur 11.5 + OpenCore 0.7.1
 
 ## Intel Power Gadget
 
-![CPU 变频](images/CPU 变频.png)
+![CPU 变频](images/CPU%20变频.png)
 
 
 
 ## Geekbench5 CPU
 
-![CPU 跑分](images/CPU 跑分.png)
+![CPU 跑分](images/CPU%20跑分.png)
 
 ## Geekbench5 GPU
 
-![GPU 跑分](images/GPU 跑分.png)
+![GPU 跑分](images/GPU%20跑分.png)
 
 ## 隔空投送 AirDrop
 
